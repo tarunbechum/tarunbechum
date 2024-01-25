@@ -1,4 +1,4 @@
-<[1[MasterHead](https://dainstudios.com/wp-content/uploads/2022/08/Data-natives_banner_2.gif)](https://rishavchanda.io)>
+[1[MasterHead](https://dainstudios.com/wp-content/uploads/2022/08/Data-natives_banner_2.gif]
 
 <h1 align="center">Hi 👋, I'm TARUN BN</h1>
 <h3 align="center">- Aspiring Data Scientist - Transforming Numbers into Insights - Seeking Opportunities to Dive into the World of Data Alchemy 📊💡 - Passionate about Solving Real-world Problems with Machine Learning | GitHub Explorer 🌐 - Ready to Contribute and Learn in the Data Science Odyssey! 🌟</h3>
