@@ -1,9 +1,9 @@
-[![MasterHead](https://www.google.com/search?q=animated+banner+gif+for+data+science&tbm=isch&ved=2ahUKEwjJ8eTitPiDAxVNh2MGHaJoBD8Q2-cCegQIABAA&oq=animated+banner+gif+for+data+science&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKOggIABCABBCxAzoOCAAQgAQQigUQsQMQgwE6BggAEAUQHlCgC1jH3gFgoOIBaAdwAHgBgAHcAYgBpyKSAQY0NS40LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=1kKyZcmuDc2OjuMPotGR-AM&bih=730&biw=1536&rlz=1C1CHBF_enIN1078IN1078&hl=en#imgrc=1W2U_NdWTynY7M)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/search?q=animated+banner+gif+for+data+science&tbm=isch&ved=2ahUKEwjJ8eTitPiDAxVNh2MGHaJoBD8Q2-cCegQIABAA&oq=animated+banner+gif+for+data+science&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKOggIABCABBCxAzoOCAAQgAQQigUQsQMQgwE6BggAEAUQHlCgC1jH3gFgoOIBaAdwAHgBgAHcAYgBpyKSAQY0NS40LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=1kKyZcmuDc2OjuMPotGR-AM&bih=730&biw=1536&rlz=1C1CHBF_enIN1078IN1078&hl=en#imgrc=1W2U_NdWTynY7M)](https://rishavchanda.io)]
 
 <h1 align="center">Hi 👋, I'm TARUN BN</h1>
 <h3 align="center">- Aspiring Data Scientist - Transforming Numbers into Insights - Seeking Opportunities to Dive into the World of Data Alchemy 📊💡 - Passionate about Solving Real-world Problems with Machine Learning | GitHub Explorer 🌐 - Ready to Contribute and Learn in the Data Science Odyssey! 🌟</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunbechum&label=Profile%20views&color=0e75b6&style=flat" alt="tarunbechum" /> </p>
 
