@@ -1,3 +1,4 @@
+[1[MasterHead](https://dainstudios.com/wp-content/uploads/2022/08/Data-natives_banner_2.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm TARUN BN</h1>
 <h3 align="center">- Aspiring Data Scientist - Transforming Numbers into Insights - Seeking Opportunities to Dive into the World of Data Alchemy 📊💡 - Passionate about Solving Real-world Problems with Machine Learning | GitHub Explorer 🌐 - Ready to Contribute and Learn in the Data Science Odyssey! 🌟</h3>
@@ -25,7 +26,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
 
 
