@@ -5,7 +5,7 @@ Hi 👋 My name is TARUN BN
 
 
 
-* 🖥️  See my portfolio at [Rakshak Kunchum](https://github.com/tarunbechum)
+* 🖥️  See my portfolio at [Tarun BN](https://github.com/tarunbechum)
 * ✉️  You can contact me at [tarunbechum@gmail.com](mailto:tarunbechum@gmail.com)
 * 🔭  I'm fascinated by the application of Machine Learning and Computer Vision to solve real world problems!
 * 🤝  I'm open to collaborating on Data Science
