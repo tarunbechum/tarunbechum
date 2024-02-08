@@ -1,4 +1,3 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 
 Hi 👋 My name is TARUN BN
 ================================
